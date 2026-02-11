@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/charmbracelet/bubbles/table"
-	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/lipgloss"
+	"github.com/purpose168/bubbles-cn/table"
+	tea "github.com/purpose168/bubbletea-cn"
+	"github.com/purpose168/lipgloss-cn"
 )
 
 var baseStyle = lipgloss.NewStyle().

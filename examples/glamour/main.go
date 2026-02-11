@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/charmbracelet/bubbles/viewport"
-	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/glamour"
-	"github.com/charmbracelet/lipgloss"
+	"github.com/purpose168/bubbles-cn/viewport"
+	tea "github.com/purpose168/bubbletea-cn"
+	"github.com/purpose168/lipgloss-cn"
 )
 
 const content = `

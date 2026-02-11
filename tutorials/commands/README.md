@@ -7,8 +7,8 @@ understanding of [the first tutorial][basics].
 
 You can find the non-annotated version of this program [on GitHub][source].
 
-[basics]: https://github.com/charmbracelet/bubbletea/tree/master/tutorials/basics
-[source]: https://github.com/charmbracelet/bubbletea/blob/master/tutorials/commands/main.go
+[basics]: https://github.com/purpose168/bubbletea-cn/tree/master/tutorials/basics
+[source]: https://github.com/purpose168/bubbletea-cn/blob/master/tutorials/commands/main.go
 
 ## Let's Go!
 
@@ -27,7 +27,7 @@ import (
     "os"
     "time"
 
-    tea "github.com/charmbracelet/bubbletea"
+    tea "github.com/purpose168/bubbletea-cn"
 )
 
 const url = "https://charm.sh/"
@@ -223,12 +223,12 @@ And, of course, check out the [Go Docs][docs].
 
 [bubbles]: https://github.com/charmbracelet/bubbles
 [docs]: https://pkg.go.dev/github.com/charmbracelet/bubbletea?tab=doc
-[examples]: https://github.com/charmbracelet/bubbletea/tree/master/examples
+[examples]: https://github.com/purpose168/bubbletea-cn/tree/master/examples
 
 ## Additional Resources
 
-* [Libraries we use with Bubble Tea](https://github.com/charmbracelet/bubbletea/#libraries-we-use-with-bubble-tea)
-* [Bubble Tea in the Wild](https://github.com/charmbracelet/bubbletea/#bubble-tea-in-the-wild)
+* [Libraries we use with Bubble Tea](https://github.com/purpose168/bubbletea-cn/#libraries-we-use-with-bubble-tea)
+* [Bubble Tea in the Wild](https://github.com/purpose168/bubbletea-cn/#bubble-tea-in-the-wild)
 
 ### Feedback
 

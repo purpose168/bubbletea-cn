@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/lipgloss"
+	tea "github.com/purpose168/bubbletea-cn"
+	"github.com/purpose168/lipgloss-cn"
 )
 
 const (

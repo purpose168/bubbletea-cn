@@ -9,9 +9,9 @@ import (
 	"os"
 	"sync"
 
-	"github.com/charmbracelet/x/term"
 	"github.com/erikgeiser/coninput"
 	"github.com/muesli/cancelreader"
+	"github.com/purpose168/charm-experimental-packages-cn/term"
 	"golang.org/x/sys/windows"
 )
 

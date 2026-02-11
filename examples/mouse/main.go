@@ -6,7 +6,7 @@ package main
 import (
 	"log"
 
-	tea "github.com/charmbracelet/bubbletea"
+	tea "github.com/purpose168/bubbletea-cn"
 )
 
 func main() {

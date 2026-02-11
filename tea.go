@@ -4,9 +4,9 @@
 // both. It's been battle-tested in several large projects and is
 // production-ready.
 //
-// A tutorial is available at https://github.com/charmbracelet/bubbletea/tree/master/tutorials
+// A tutorial is available at https://github.com/purpose168/bubbletea-cn/tree/master/tutorials
 //
-// Example programs can be found at https://github.com/charmbracelet/bubbletea/tree/master/examples
+// Example programs can be found at https://github.com/purpose168/bubbletea-cn/tree/master/examples
 package tea
 
 import (
@@ -22,8 +22,8 @@ import (
 	"sync/atomic"
 	"syscall"
 
-	"github.com/charmbracelet/x/term"
 	"github.com/muesli/cancelreader"
+	"github.com/purpose168/charm-experimental-packages-cn/term"
 )
 
 // ErrProgramPanic is returned by [Program.Run] when the program recovers from a panic.

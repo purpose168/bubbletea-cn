@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/charmbracelet/bubbles/textinput"
-	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/lipgloss"
+	"github.com/purpose168/bubbles-cn/textinput"
+	tea "github.com/purpose168/bubbletea-cn"
+	"github.com/purpose168/lipgloss-cn"
 )
 
 func main() {

@@ -3,16 +3,16 @@ on: [push, pull_request]
 
 jobs:
   build:
-    uses: charmbracelet/meta/.github/workflows/build.yml@main
+    uses: purpose168/meta-cn/.github/workflows/build.yml@main
 
   build-go-mod:
-    uses: charmbracelet/meta/.github/workflows/build.yml@main
+    uses: purpose168/meta-cn/.github/workflows/build.yml@main
     with:
       go-version: ""
       go-version-file: ./go.mod
 
   build-examples:
-    uses: charmbracelet/meta/.github/workflows/build.yml@main
+    uses: purpose168/meta-cn/.github/workflows/build.yml@main
     with:
       go-version: ""
       go-version-file: ./examples/go.mod

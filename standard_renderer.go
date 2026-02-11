@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/charmbracelet/x/ansi"
 	"github.com/muesli/ansi/compressor"
+	"github.com/purpose168/charm-experimental-packages-cn/ansi"
 )
 
 const (
@@ -285,7 +285,7 @@ func (r *standardRenderer) flush() {
 
 	// Save previously rendered lines for comparison in the next render. If we
 	// don't do this, we can't skip rendering lines that haven't changed.
-	// See https://github.com/charmbracelet/bubbletea/pull/1233
+	// See https://github.com/purpose168/bubbletea-cn/pull/1233
 	r.lastRenderedLines = newLines
 	r.buf.Reset()
 }

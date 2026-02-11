@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/harmonica"
+	tea "github.com/purpose168/bubbletea-cn"
 )
 
 const (

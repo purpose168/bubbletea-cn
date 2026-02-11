@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/charmbracelet/bubbles/key"
-	"github.com/charmbracelet/bubbles/list"
-	tea "github.com/charmbracelet/bubbletea"
+	"github.com/purpose168/bubbles-cn/key"
+	"github.com/purpose168/bubbles-cn/list"
+	tea "github.com/purpose168/bubbletea-cn"
 )
 
 func newItemDelegate(keys *delegateKeyMap) list.DefaultDelegate {

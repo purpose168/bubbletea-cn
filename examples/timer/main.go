@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/charmbracelet/bubbles/help"
-	"github.com/charmbracelet/bubbles/key"
-	"github.com/charmbracelet/bubbles/timer"
-	tea "github.com/charmbracelet/bubbletea"
+	"github.com/purpose168/bubbles-cn/help"
+	"github.com/purpose168/bubbles-cn/key"
+	"github.com/purpose168/bubbles-cn/timer"
+	tea "github.com/purpose168/bubbletea-cn"
 )
 
 const timeout = time.Second * 5

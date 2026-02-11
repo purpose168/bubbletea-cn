@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/charmbracelet/bubbles/textinput"
-	tea "github.com/charmbracelet/bubbletea"
+	"github.com/purpose168/bubbles-cn/textinput"
+	tea "github.com/purpose168/bubbletea-cn"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	tea "github.com/charmbracelet/bubbletea"
+	tea "github.com/purpose168/bubbletea-cn"
 )
 
 const url = "https://charm.sh/"

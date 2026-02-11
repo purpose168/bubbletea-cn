@@ -1,7 +1,7 @@
 package tea
 
 import (
-	"github.com/charmbracelet/lipgloss"
+	"github.com/purpose168/lipgloss-cn"
 )
 
 func init() {

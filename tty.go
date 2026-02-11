@@ -6,8 +6,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/charmbracelet/x/term"
 	"github.com/muesli/cancelreader"
+	"github.com/purpose168/charm-experimental-packages-cn/term"
 )
 
 func (p *Program) suspend() {
